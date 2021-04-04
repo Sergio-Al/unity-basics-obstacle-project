@@ -60,5 +60,5 @@ sysinfo.txt
 crashlytics-build.properties
 
 # For MacOs generated files
-echo .DS_Store >> .gitignore
+.DS_Store
 
